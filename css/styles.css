@@ -1,0 +1,17 @@
+
+
+body{
+  background-color: #ffd369;
+}
+  .nobullets {
+     list-style-type:none;
+    }
+
+  .dotted {
+    border: none;
+    border-top:5px dotted black;
+    color:#e25822;
+    background-color:#ffd369;
+    width:20%;
+  }
+  h1,h3 {color: #66bf}
